@@ -1,5 +1,9 @@
 # Astro Post — Parcel Run
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/cunong05/best-game-01-entry/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/cunong05/best-game-01-entry/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 A complete, original 2D arcade game for the make.fun best-game-01 bounty.
 You fly a courier ship through a busy orbital lane: pick up each colour-coded
 parcel and dock it at the station of the same colour. Deliver all 10 parcels
@@ -41,3 +45,7 @@ file under `game/` or generated at runtime (WebAudio synth for sound effects).
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=0ene8b3q&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
